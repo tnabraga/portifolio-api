@@ -5,7 +5,7 @@ O mesmo irar imprimir na tela uma mensagem para o usuario!
 
 #  Descrição Instalação
 ## Clonado o repositório e extraído todos os arquivos
- Repositório GIT
+ *Repositório GIT:**
 
 Digite git clone (clonar git) e cole a URL que você copiou anteriormente.
 ```sh
@@ -28,9 +28,10 @@ npm start
 ```
 # Tecnlogias
 NodeJS v16.0.0
+npm 7.10.0
+Express 4.17.1
 
 # Estrutura de pastas
-*root*
 ```
 ├──api
 └── Controler
@@ -40,3 +41,5 @@ NodeJS v16.0.0
 ├── html
 ├──README.md
 ```
+# Autor
+Tania Braga
